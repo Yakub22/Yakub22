@@ -10,5 +10,5 @@
 ## Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yakub22)
-[![SomeOtherSocial](https://img.shields.io/badge/Social-000?style=for-the-badge&logo=social-logo&logoColor=white)](https://https://www.linkedin.com/in/yakubabdulfatai/)
+[![SomeOtherSocial](https://img.shields.io/badge/Social-000?style=for-the-badge&logo=social-logo&logoColor=white)](https://www.linkedin.com/in/yakubabdulfatai/)
 
